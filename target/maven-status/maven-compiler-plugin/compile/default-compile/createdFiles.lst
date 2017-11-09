@@ -1,0 +1,5 @@
+com\leapfrog\hibernate\dao\impl\CustomerDAOImpl.class
+com\leapfrog\hibernate\entity\Followup.class
+com\leapfrog\hibernate\entity\Customer.class
+com\leapfrog\hibernate\controller\DefaultController.class
+com\leapfrog\hibernate\dao\CustomerDAO.class
